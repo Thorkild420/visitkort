@@ -1,2 +1,2 @@
 # visitkort
-visitkort portofolio og cv i html og css
+visitkort, portofolio og cv i html og css
